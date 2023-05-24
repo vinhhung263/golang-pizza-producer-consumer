@@ -13,3 +13,5 @@ Something might go wrong, somebody might quit, they might run out of an ingredie
 And our goal here is to ensure that we write a solution to the producer consumer problem.
 
 Now, that's a very general description, but as we go through, you'll see just how complex this problem can be.
+
+![Capture](https://github.com/vinhhung263/golang-pizza-producer-consumer/assets/62415557/910fc892-357e-43c4-bf5d-7d3484a5559f)
